@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.backup
+.env.production
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Logs and databases
+*.log
+*.sqlite
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
